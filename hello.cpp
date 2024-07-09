@@ -7,6 +7,6 @@ int main()
     int x;
     cin>>x;
     cout<<x<<endl;
+    cout<<"email updtaed";
     return 0;
-
 }
